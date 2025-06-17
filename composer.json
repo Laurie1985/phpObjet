@@ -1,0 +1,16 @@
+{
+    "name": "lau/php-objet",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Lau\\PhpObjet\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Laurie1985",
+            "email": "berthon.laurie@neuf.fr"
+        }
+    ],
+    "require": {}
+}
